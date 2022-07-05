@@ -1,4 +1,4 @@
-       ### Hey, friends my name is Lucas, I’m 19 years old is cool right? I’ve been a certified developer for a few years now.
+
 
 - 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt)
 - 🇫🇷 I live in France
