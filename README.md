@@ -32,6 +32,6 @@
   
   
   <div align="center">
-   <a href='https://github.com/XaterreDev/profile' target='_blank'><img src='https://i.postimg.cc/4KFQZkkm/githubprofile.png' border='0' alt='githubprofile'/></a>
+   <a href='https://github.com/XaterreDev/' target='_blank'><img src='https://i.postimg.cc/4KFQZkkm/githubprofile.png' border='0' alt='githubprofile'/></a>
 </div>
   
