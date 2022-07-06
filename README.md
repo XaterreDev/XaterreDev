@@ -1,10 +1,10 @@
 
 
-- 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt) | ![](https://dcbadge.vercel.app/api/shield/732542957437321227/?style=flat)
+- 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt) | 
 - 🇫🇷 I live in France
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XaterreDev&label=Profile%20views&color=0e75b6&style=flat" alt="XaterreDev" /> </p>
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XaterreDev&label=Profile%20views&color=0e75b6&style=flat" alt="XaterreDev" /> <img src="https://dcbadge.vercel.app/api/shield/732542957437321227/?style=flat"/>
+
 
 ## 🌍 Programming languages:
 [![progLang](https://skillicons.dev/icons?i=js,java,html,css,py&theme=dark)](https://github.com/XaterreDev)
