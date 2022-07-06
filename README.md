@@ -1,6 +1,6 @@
 
 
-- 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt)
+- 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt) | ![](https://dcbadge.vercel.app/api/shield/732542957437321227/?style=flat)
 - 🇫🇷 I live in France
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XaterreDev&label=Profile%20views&color=0e75b6&style=flat" alt="XaterreDev" /> </p>
