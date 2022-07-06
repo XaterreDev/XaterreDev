@@ -8,7 +8,7 @@
        
 
 # 💻 Langages:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red) ![Python](https://img.shields.io/badge/python-%23563D7C.svg?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23404d59.svg?style=for-the-badge&logo=java&logoColor=yellow) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%231e36f7) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%237a211b) ![Python](https://img.shields.io/badge/python-%23563D7C.svg?style=for-the-badge&logo=python&logoColor=%233e92d1)  ![Java](https://img.shields.io/badge/java-%23404d59.svg?style=for-the-badge&logo=JAVA&logoColor=white) 
 
 ## ⚙️ Programming Tools:
 
@@ -22,7 +22,7 @@
 ## 🔧 OS :
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
- ![Ubuntu](https://img.shields.io/badge/Ubuntu-0078D6?style=for-the-badge&logo=ubuntu&logoColor=cyan)
+ ![KUbuntu](https://img.shields.io/badge/kubuntu-0078D6?style=for-the-badge&logo=kubuntu&logoColor=white)
  
  
 ## 🚩 Projects:
