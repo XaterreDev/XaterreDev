@@ -1,9 +1,9 @@
 
 
-- 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt) | 
+- 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt) 
 - 🇫🇷 I live in France
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=XaterreDev&label=Profile%20views&color=0e75b6&style=flat" alt="XaterreDev" /> <img src="https://dcbadge.vercel.app/api/shield/732542957437321227/?style=flat"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=XaterreDev&label=Profile%20views&color=0e75b6&style=flat" alt="XaterreDev" /> 
 
 
 ## 🌍 Programming languages:
@@ -26,13 +26,6 @@
 ## 🚩 Projects:
   | Name             | Web                     | Discord                        | Description                                                        |
   |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
-  | OctoBot          |              no         | https://discord.gg/TYDKXQgRBt  | This a Discord bot as well as multifunctional configurable.        |
+  |                  |                         |                                |                                                                    |
   
   
-  
-<details>
-  <summary>⚡ Github Stats:</summary>
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=XaterreDev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XaterreDev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
