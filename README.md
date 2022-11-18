@@ -7,7 +7,7 @@
 
 
 ## 🌍 Programming languages:
-[![progLang](https://skillicons.dev/icons?i=js,java,html,css,py&theme=dark)](https://github.com/XaterreDev)
+[![progLang](https://skillicons.dev/icons?i=html,css,py,js,java,php&theme=dark)](https://github.com/XaterreDev)
 
 
 ## ⚙️ Tools:
