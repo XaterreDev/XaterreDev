@@ -22,10 +22,3 @@
  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  ![KUbuntu](https://img.shields.io/badge/kubuntu-0078D6?style=for-the-badge&logo=kubuntu&logoColor=white)
  
- 
-## 🚩 Projects:
-  | Name             | Web                     | Discord                        | Description                                                        |
-  |------------------|-------------------------|--------------------------------|--------------------------------------------------------------------|
-  |                  |                         |                                |                                                                    |
-  
-  
