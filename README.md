@@ -1,6 +1,6 @@
 
 
-- 📫 How to reach me: [Discord](https://discord.gg/TYDKXQgRBt) 
+- 📫 How to reach me: [Discord](https://discord.gg/labap) 
 - 🇫🇷 I live in France
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XaterreDev&label=Profile%20views&color=0e75b6&style=flat" alt="XaterreDev" /> 
@@ -21,4 +21,5 @@
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  ![Ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
  ![KUbuntu](https://img.shields.io/badge/kubuntu-0078D6?style=for-the-badge&logo=kubuntu&logoColor=white)
+ ![Kali](https://img.shields.io/badge/kali-0078D6?style=for-the-badge&logo=kalilinux&logoColor=white)
  
